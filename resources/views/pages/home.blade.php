@@ -46,7 +46,8 @@
     <div class="card">
       <div class="card-body">
           <img src="/images/mar.jpg" class="main-round-img" style="height:170px; width:170px; margin: 0 auto; ">
-          <h5 class="card-title">Mar Kenneth Tabladas</h5>
+          <h5 class="card-title">Mar Kenneth Tablada
+        </h5>
         <p class="card-text"> Principal Architect | Co-Founder | B+T Arquitektos</p>
       </div>
     </div>
