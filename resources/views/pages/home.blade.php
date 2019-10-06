@@ -36,7 +36,7 @@
         <div class="col-md-6">
             <div class="card">
               <div class="card-body">
-                  <img src="/images/jihan.jpg" class="main-round-img" style="height:170px; width:170px; border:1px solid black; margin: 0 auto; border-radius:50%;">
+                  <img src="/images/jihan.jpg" class="main-round-img" style="height:170px; width:170px; margin: 0 auto; ">
                   <h5 class="card-title">Jihan Earl Aeneas Balagot</h5>
                 <p class="card-text"> Principal Architect | Co-Founder | B+T Arquitektos</p>
               </div>
@@ -45,7 +45,7 @@
   <div class="col-md-6">
     <div class="card">
       <div class="card-body">
-          <img src="/images/mar.jpg" class="main-round-img" style="height:170px; width:170px; border:1px solid black; margin: 0 auto; border-radius:50%;">
+          <img src="/images/mar.jpg" class="main-round-img" style="height:170px; width:170px; margin: 0 auto; ">
           <h5 class="card-title">Mar Kenneth Tabladas</h5>
         <p class="card-text"> Principal Architect | Co-Founder | B+T Arquitektos</p>
       </div>
